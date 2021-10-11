@@ -1,0 +1,8 @@
+1 ICON "Assarbad.ICO"
+
+mylic RCDATA "freewareos.license.txt"
+mycont RCDATA "contact.txt"
+mycr RCDATA "cr.txt"
+myhelp RCDATA "help.txt"
+myabout RCDATA "about.txt"
+

@@ -1,0 +1,7 @@
+-= ABOUT =-
+This simple program is intended to help in data interpretation of GIS data. Namely different TRM channels. It combines them and has the limited ability of manipulating data and creating stats on the deviation of colors ... etc.
+
+
+Have fun, Assarbad aka Snizhok
+
+PS: If you like this program, just give the next beggar you meet the equivalent amount to 1 bread in money or on your choice a bread! ;-) Enjoy his/her smile.

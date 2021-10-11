@@ -1,0 +1,15 @@
+From www.erm.tu-cottbus.de/delphi
+(c) 2000 - 2001 by -=Assarbad=-
+
+-= LICENSE [v1.1 - 05.11.2000] =-
+
+THIS PROGRAM IS FREEWARE WITH SOURCE.
+
+Because the program/source is free of charge, there is no warranty for it. The program is provided 'as is' without warranty of any kind, either expressed or implied. Should the program prove defective, you assume the cost of all necessary servicing, repair or correction.
+If this program is distributed on a data storage medium for sale, the pricing has to be within the limits of 200% of the production costs. Else, if you are a distributor, you must not distribute this program on your medium. If you distribute it, I _would like_ to get a free copy (this is voluntary).
+LIMITATION: If you are a monkey you are only authorized to use this program if you are currently swinging from your tail on a tree AND have 2 (two) or more bananas currently on your tree as well. You (the monkey) may not eat (or use) the program, unless 1 (one) banana is eaten first AND the 2nd (second) banana is eaten afterwards. If you work for the government or any governmental agency
+... you are a monkey! Furthermore you are not allowed to use the source to make money, without sharing it with me (I'd like to have 15% ... no joke).
+
+The source is provided under the above conditions. You may alter it as you want. The only condition is to not misrepresent its origin (Keep the file header as it is, don't remove the copyright informations). Therefore, only do not claim this source to be your mindwork - you need not to credit me or something, even if it would be nice :-)
+You may wonder, why I don't call this OpenSource. Due to the very simple reason, that the existing OpenSource licenses are sooooooooooooooo looooooong and too complicated - I just wrote this simple one, which can be read within 2 minutes maximum.
+[GoP]
